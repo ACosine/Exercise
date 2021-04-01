@@ -1,4 +1,4 @@
-all:test  exec
+all:test exec
 test:test.cpp
 	gcc $^ -o $@ 
 exec:exec.cpp
