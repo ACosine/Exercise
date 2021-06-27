@@ -1,5 +1,2 @@
-test:test.c
+test:test1.c test2.c 
 	gcc $^ -o $@ -g
-test1:test1.c
-	gcc $^ -o $@ -g
-
