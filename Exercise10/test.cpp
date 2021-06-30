@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//验证
 int main()
 {
     int a=2,b=3,x=3;
