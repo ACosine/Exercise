@@ -1,3 +1,4 @@
+out:wait waitpid
 waitpid:waitpid.cpp
 	g++ $^ -o $@
 	
